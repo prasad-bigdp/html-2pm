@@ -1,0 +1,42 @@
+Inline vs Block elements
+
+Block elements do not allow any elements beside them
+inline elemnts allow other elements beside them
+
+Download and install Git
+check git version ==>git -v
+
+Goto github.com and create an account
+create one repository(like a folder) in github
+
+ Steps:
+ Goto terminal in your vs code and goto specific path of folder
+   1. git init( start the git)
+   2. git add filename/ git add .
+   3. git commit -m "message"
+
+for first tie it will ask you to authorize
+    git config --global user.email "email id"
+    git config --global user.name "username"
+4. git remote add origin "link"
+5.git push -u origin main
+https://github.com/prasad-bigdp/html-2pm
+
+
+while installing default git code editor==>vs code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
